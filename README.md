@@ -3,4 +3,5 @@
 ## Hello!
 Last year master student in Statistics at Stockholm University.
 I have a passion for Machine Learning and I am currently working with TensorFlow/Keras for predictive modelling.
-More in about me linkedin.com/in/olovrudberg
+More in about me
+[linkedin.com/in/olovrudberg](#linkedin.com/in/olovrudberg)
